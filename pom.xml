@@ -44,7 +44,7 @@
                         </relocation>
                     </relocations>
                     <createDependencyReducedPom>false</createDependencyReducedPom>
-                    <outputFile>D:\Sententia Server (1.19.3)\plugins\SententiaTitle.jar</outputFile>
+                 
                 </configuration>
                 <executions>
                     <execution>
